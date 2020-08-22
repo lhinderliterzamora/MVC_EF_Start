@@ -8,5 +8,10 @@ namespace MVC_EF_Start.Controllers
     {
       return View();
     }
-  }
+        public IActionResult Celebritydoxie()
+        {
+            return View();
+        }
+    }
 }
+
