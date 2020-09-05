@@ -12,7 +12,9 @@ namespace MVC_EF_Start.Controllers
         {
             return View();
         }
-        public IActionResult Resume()
+        
+        }
+         public IActionResult demochart()
         {
             return View();
         }
